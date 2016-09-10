@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1472667035 source:c:\users\kowshika\desktop\hackarena\chesspuzzle\main.cpp
+	<iostream>
+	"Output.h"
+	"GameController.h"
+
+1472379525 source:c:\users\kowshika\desktop\hackarena\chesspuzzle\obstaclelocation.cpp
+	"ObstacleLocation.h"
+
+1472380080 c:\users\kowshika\desktop\hackarena\chesspuzzle\obstaclelocation.h
+	"GameConfig.h"
+
+1472666716 c:\users\kowshika\desktop\hackarena\chesspuzzle\gameconfig.h
+
+1472651720 source:c:\users\kowshika\desktop\hackarena\chesspuzzle\building.cpp
+	"stdlib.h"
+	"Building.h"
+	"Output.h"
+	<cmath>
+	<iostream>
+	<fstream>
+
+1472634187 c:\users\kowshika\desktop\hackarena\chesspuzzle\building.h
+	"GameConfig.h"
+	"ObstacleLocation.h"
+	"Move.h"
+
+1472378107 c:\users\kowshika\desktop\hackarena\chesspuzzle\move.h
+
+1472666980 source:c:\users\kowshika\desktop\hackarena\chesspuzzle\gamecontroller.cpp
+	"GameController.h"
+	<iostream>
+	<fstream>
+	"Output.h"
+
+1472408361 c:\users\kowshika\desktop\hackarena\chesspuzzle\gamecontroller.h
+	"Building.h"
+	"ObstacleLocation.h"
+	"Move.h"
+	"UserBot.h"
+
+1472636116 source:c:\users\kowshika\desktop\hackarena\chesspuzzle\move.cpp
+	"Move.h"
+
+1472408379 c:\users\kowshika\desktop\hackarena\chesspuzzle\userbot.h
+	"Building.h"
+	"Move.h"
+
+1472666899 source:c:\users\kowshika\desktop\hackarena\chesspuzzle\userbot.cpp
+	"UserBot.h"
+
+1472651572 c:\users\kowshika\desktop\hackarena\chesspuzzle\output.h
+	<string>
+	<stdlib.h>
+
+1472651598 source:c:\users\kowshika\desktop\hackarena\chesspuzzle\output.cpp
+	"Output.h"
+	<string>
+	<stdlib.h>
+
